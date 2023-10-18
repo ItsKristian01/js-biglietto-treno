@@ -30,3 +30,4 @@ if (userAge < 18) {
 }
 
 // Output
+document.getElementById("ticket-price").innerHTML = travelTicket;
